@@ -59,12 +59,12 @@ me.say_hi()
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WuneCutee&show_icons=true&count_private=true&hide_border=true&title_color=e05397&icon_color=e05397&text_color=c9d1d9&bg_color=0d1117" alt="WuneCutee github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=WuneCutee&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=WuneCutee&theme=radical&hide_border=true&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=WuneCutee&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=WuneCutee&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397&text_color=c9d1d9&icon_color=e05397" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuneCutee&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WuneCutee&show_icons=true&count_private=true&hide_border=true&title_color=e05397&icon_color=e05397&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="WuneCutee github stats" />
 </div>
 
 <!-- Activity Graph -->
@@ -74,7 +74,7 @@ me.say_hi()
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WuneCutee&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=WuneCutee&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="90%" alt="Trophy" />
 </div>
 
 ---
