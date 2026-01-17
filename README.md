@@ -58,13 +58,15 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WuneCutee&show_icons=true&count_private=true&hide_border=true&title_color=e05397&icon_color=e05397&text_color=c9d1d9&bg_color=0d1117)](https://github.com/WuneCutee)
+  <img src="https://github-readme-stats.vercel.app/api?username=WuneCutee&show_icons=true&count_private=true&hide_border=true&title_color=e05397&icon_color=e05397&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WuneCutee&theme=radical&hide_border=true&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)](https://github.com/WuneCutee)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=WuneCutee&theme=radical&hide_border=true&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
+</div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WuneCutee&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397)](https://github.com/WuneCutee)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuneCutee&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397" alt="Top Languages" />
 </div>
 
 ---
