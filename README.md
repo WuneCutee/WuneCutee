@@ -58,13 +58,12 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WuneCutee&show_icons=true&count_private=true&hide_border=true&title_color=e05397&icon_color=e05397&text_color=c9d1d9&bg_color=0d1117" alt="WuneCutee github stats" /> 
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=WuneCutee&theme=radical&hide_border=true&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WuneCutee&show_icons=true&count_private=true&hide_border=true&title_color=e05397&icon_color=e05397&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="49%" src="https://streak-stats.demolab.com/?user=WuneCutee&theme=radical&hide_border=true&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuneCutee&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WuneCutee&show_icons=true&count_private=true&hide_border=true&title_color=e05397&icon_color=e05397&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="WuneCutee github stats" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuneCutee&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397" />
 </div>
 
 <!-- Activity Graph -->
@@ -74,7 +73,7 @@ me.say_hi()
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WuneCutee&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="90%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=WuneCutee&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" alt="Trophy" />
 </div>
 
 ---
@@ -114,14 +113,7 @@ me.say_hi()
 ## 🎨 Projects & Contributions
 
 <div align="center">
-
-<a href="https://github.com/WuneCutee/RMOTEGS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WuneCutee&repo=RMOTEGS&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397" />
-</a>
-<a href="https://github.com/WuneCutee/OXYSIM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WuneCutee&repo=OXYSIM&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397" />
-</a>
-
+  <p>Check out my pinned repositories below! 👇</p>
 </div>
 
 ---
@@ -153,9 +145,6 @@ me.say_hi()
 ### 💫 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 </div>
 
